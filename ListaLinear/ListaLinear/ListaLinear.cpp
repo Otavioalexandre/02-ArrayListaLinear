@@ -105,19 +105,24 @@ void buscarElemento()
 {
 
 	int pos = -1;
+	int busca=0;
 
-	if (nElementos == 0)
-	{
-		cout << " A lista esta vazia \n";
-	}
-	else {
 		cout << "Digite o elemento desejado: \n";
+		cin >> busca;
 
-		for (int n = 0; int n != -1; n++) {
-			
+		//backup cout << "O valor e': " << busca << endl;
+
+		for (int n = 0; n < nElementos; n++)
+		{
+			if (busca == lista[n]) {
+
+				cout << "Encontrado pos: " << n << endl;
+				pos = n;
+			}
 		}
-	}
 
-
-
+		if (pos == -1)
+		{
+			cout << "Nao encontrado\n" << endl;
+		}
 }
