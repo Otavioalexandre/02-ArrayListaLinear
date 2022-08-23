@@ -1,3 +1,8 @@
+# Sobre mim
+
+*Email Institucional: otavio.ferreira01@fatec.sp.gov.br
+*Nome completo: Otávio Alexandre de Camargo Ferreira
+
 # Lista Linear
 
 Faça um fork deste repositorio e implemente a função buscarElemento
