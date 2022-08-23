@@ -104,4 +104,20 @@ void inserirElemento()
 void buscarElemento()
 {
 
+	int pos = -1;
+
+	if (nElementos == 0)
+	{
+		cout << " A lista esta vazia \n";
+	}
+	else {
+		cout << "Digite o elemento desejado: \n";
+
+		for (int n = 0; int n != -1; n++) {
+			
+		}
+	}
+
+
+
 }
