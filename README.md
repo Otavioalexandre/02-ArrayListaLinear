@@ -1,7 +1,7 @@
 # Sobre mim
 
-*Email Institucional: otavio.ferreira01@fatec.sp.gov.br
-*Nome completo: Otávio Alexandre de Camargo Ferreira
+* Email Institucional: otavio.ferreira01@fatec.sp.gov.br
+* Nome completo: Otávio Alexandre de Camargo Ferreira
 
 # Lista Linear
 
